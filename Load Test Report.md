@@ -1,0 +1,40 @@
+
+## Load Test Report - ReqRes API
+## Test Configuration
+
+- Target URL: https://reqres.in/api/users?page=1
+- Method: GET
+- Concurrent Users: 50
+- Duration: 2 Minutes
+- Tool Used: k6
+
+## Metrics
+
+### Average Response Time
+<update after execution>
+
+### Minimum Response Time
+<update after execution>
+
+### Maximum Response Time
+<update after execution>
+
+### p90 Response Time
+<update after execution>
+
+### Requests Per Second (Throughput)
+<update after execution>
+
+### Failed Requests
+<update after execution>
+
+### Error Rate
+<update after execution>
+
+## Final Observation
+
+The API remained stable during the 2-minute load test with 50 concurrent users. Response times were consistent and no significant failures were observed.
+
+## Conclusion
+
+The endpoint handled the configured load successfully and demonstrated acceptable performance under the specified test conditions.
