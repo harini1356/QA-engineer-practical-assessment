@@ -61,6 +61,7 @@ Thank you for your order!
 
 Locked User:
 Epic sadface: Sorry, this user has been locked out.
+https://github.com/harini1356/QA-engineer-practical-assessment/blob/271bfd58bb93111a55f8a3dfcae057ce2a9f4275/task%202%20output.png
 
 ## Load Test Report - ReqRes API
 ## Test Configuration
